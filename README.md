@@ -3,4 +3,6 @@ Repository containing projects done based on the the Pac-Man projects developed 
 
 http://ai.berkeley.edu.
 
+http://ai.berkeley.edu/project_overview.html
+
 https://inst.eecs.berkeley.edu/~cs188/sp24/
